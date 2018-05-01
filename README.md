@@ -1,5 +1,4 @@
-# data-size
-# Length to Data Size
+# Data Length to Data Size
 calculate the data size of data (GB,MB,KB,B) in javascript
 
 ## Example
