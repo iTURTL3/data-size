@@ -8,4 +8,4 @@ var size   = lengthToSize(length);
 console.log(size.size + ' ' + size.suffix);
 ```
 
-JSFiddle example: https://jsfiddle.net/ijake/mknyrnch/3/
+JSFiddle example: https://jsfiddle.net/ijake/mknyrnch/4/
